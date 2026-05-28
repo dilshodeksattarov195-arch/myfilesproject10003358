@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configfalculate",
+        "uuid": 12391020,
+        "checksum": "ffxg5m"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
